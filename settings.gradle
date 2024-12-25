@@ -1,0 +1,3 @@
+rootProject.name = 'jotia'
+include 'jotia-core'
+//include 'jotia-terminal'
